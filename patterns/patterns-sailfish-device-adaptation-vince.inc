@@ -11,7 +11,6 @@ Requires: droid-config-vince-flashing
 Requires: droid-config-vince-bluez5
 Requires: droid-hal-version-vince
 Requires: droid-hal-vince-detritus
-Requires: droid-biometry-fp
 
 
 # Hybris packages
